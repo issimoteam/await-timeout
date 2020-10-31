@@ -1,6 +1,6 @@
 {
   "name": "@sebastbake/await-timeout",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "repository": {
@@ -11,6 +11,10 @@
   "license": "MIT",
   "devDependencies": {
     "typescript": "^4.0.5"
+  },
+  "scripts": {
+    "prepublishOnly": "npm run build",
+    "build": "npx tsc"
   },
   "files": ["index.js", "index.d.ts"],
   "tags":["promise", "setTimeout", "typescript"]
