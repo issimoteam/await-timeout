@@ -1,0 +1,16 @@
+{
+  "name": "@sebastbake/await-timeout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebastBake/await-timeout.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.0.5"
+  },
+  "files": ["index.js", "index.d.ts"]
+}
