@@ -1,7 +1,7 @@
 {
   "name": "@sebastbake/await-timeout",
-  "version": "1.0.3",
-  "description": "",
+  "version": "1.0.4",
+  "description": "It's setTimout but you can await it.",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -17,5 +17,6 @@
     "build": "npx tsc"
   },
   "files": ["index.js", "index.d.ts"],
-  "tags":["promise", "setTimeout", "typescript"]
+  "tags":["promise", "setTimeout", "typescript"],
+  "type":"module"
 }
