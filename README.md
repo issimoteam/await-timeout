@@ -1,3 +1,5 @@
+# Deprecated in favour of [issimoteam/await-timeout](https://github.com/issimoteam/await-timeout)
+
 It's setTimout but you can await it.
 
 [![size](https://img.shields.io/bundlephobia/minzip/@sebastbake/await-timeout)](https://bundlephobia.com/result?p=@sebastbake/await-timeout)
